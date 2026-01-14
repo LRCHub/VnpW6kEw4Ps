@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "スクランブル",
+  "base_artist": "後藤真希",
+  "createdAt": "2026-01-14T08:03:52.970436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/01_スクランブル_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スクランブル(堀江由衣LIVE TOUR 2019文学少女倶楽部)",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/02_スクランブル(堀江由衣LIVE_TOUR_2019文学少女倶楽部)_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スクランブル(堀江由衣LIVE TOUR 2019文学少女倶楽部)",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/03_スクランブル(堀江由衣LIVE_TOUR_2019文学少女倶楽部)_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "Yui Horie with UNSCANDAL",
+      "has_synced": false,
+      "path": "select/04_スクランブル_Yui_Horie_with_UNSCANDAL.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/05_スクランブル_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/06_スクランブル_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スクランブル [Instrumental]",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_スクランブル_[Instrumental]_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "堀江由衣 with UNSCANDAL",
+      "has_synced": false,
+      "path": "select/08_スクランブル_堀江由衣_with_UNSCANDAL.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メテオ･スクランブル☆流星隊!",
+      "artist": "流星隊/守沢千秋(CV.帆世雄一)、深海奏汰(CV.西山宏太朗)、南雲鉄虎(CV.中島ヨシキ)、高峯翠(CV.渡辺拓海)、仙石忍(CV.新田杏樹)",
+      "has_synced": true,
+      "path": "select/09_メテオ・スクランブル☆流星隊!_流星隊_守沢千秋(CV.帆世雄一)、深海奏汰(CV.西山宏太朗)、南雲鉄虎(CV.中島ヨシキ)、高峯翠(CV.渡辺拓海)、仙石忍(CV.新田杏樹).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "Vivid Undress",
+      "has_synced": true,
+      "path": "select/10_スクランブル_Vivid_Undress.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "TOTALFAT",
+      "has_synced": true,
+      "path": "select/11_スクランブル_TOTALFAT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/12_スクランブル_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スクランブル",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/13_スクランブル_SPYAIR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スクランブル",
+      "artist": "後藤 真希",
+      "has_synced": false,
+      "path": "select/pl_01_スクランブル_後藤_真希.txt"
+    }
+  ]
+}
